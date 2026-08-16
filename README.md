@@ -85,9 +85,9 @@ The CNN model consists of:
 
 | Metric | Value |
 |----------|----------|
-| Training Accuracy | 99.55% |
-| Validation Accuracy | 100.00% |
-| Test Accuracy | 88.17% |
+| Training Accuracy | 100.00% |
+| Validation Accuracy | 99.80% |
+| Test Accuracy | 90.59% |
 
 ---
 
